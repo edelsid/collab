@@ -1,3 +1,1 @@
 # Empty file
-
-Test string
